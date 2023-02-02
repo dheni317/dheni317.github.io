@@ -9,7 +9,7 @@
       ></div>
       <h1>{{ project.name }}</h1>
       <p>{{ project.tag }}</p>
-      <button @click="GoToLink(projectData[0].url)">이동하기</button>
+      <button @click="GoToLink(project.url)">이동하기</button>
     </div>
   </div>
 </template>
