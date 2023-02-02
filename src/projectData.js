@@ -12,6 +12,6 @@ export default [
         tag:'#HTML #CSS #JavaScript',
         image:'./projectThumbnail/ReactionTimeTest.png',
         url:'./HumanBenchMark'
-    },
+    }
 
 ]
